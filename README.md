@@ -144,8 +144,6 @@ http://localhost:4200
 
 * Render / Railway / Fly.io
 
-> ⚠️ Note: Netlify supports **frontend only**, not Spring Boot backend.
-
 ---
 
 ## 📌 API Endpoints (Sample)
